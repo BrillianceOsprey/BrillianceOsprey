@@ -14,8 +14,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-[![Zayar Tun's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrillianceOsprey&theme=blueberry&show_icons=true&locale=en)](https://github.com/BrillianceOsprey)
+[![Myat Soe's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrillianceOsprey&theme=dracula&show_icons=true&locale=en)](https://github.com/BrillianceOsprey)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrillianceOsprey&layout=compact&theme=blueberry)](https://github.com/BrillianceOsprey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrillianceOsprey&layout=compact&theme=dracula)](https://github.com/BrillianceOsprey)
 
 [country]: https://en.wikipedia.org/wiki/Myanmar
