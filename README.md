@@ -3,6 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/BrillianceOsprey?style=social)](https://img.shields.io/github/followers/BrillianceOsprey?style=social)
 
 - 🇲🇲 I'm from [Myanmar (Burma)][country].
+- B.C.Sc (University of Computer Studies Yangon)
+- Bsc.IT (European International University,Paris (EIU)) 
 - 🏢 I’m currently working as mobile developer at `SYSTEMATIC Business Solution, Myanmar`
 - 👨‍💻 I’m currently learning `software development and software engineering`.
 - 😎 I'm very eager to learn new `technologies`.
