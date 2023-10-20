@@ -9,7 +9,7 @@
 - Former Mobile Developer at `SYSTEMATIC Business Solution, Myanmar`
 - 👨‍💻 I’m currently learning `software development and software engineering`.
 - 😎 I'm very eager to learn new `technologies`.
-- 📫 How to reach me: [BrillianceOsprey](brillianceosprey@gmail.com)
+- 📫 How to reach me: Email: [BrillianceOsprey](mailto:brillianceosprey@gmail.com)
 - 💻 I am funny.
 
 
