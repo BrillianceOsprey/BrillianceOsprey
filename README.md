@@ -7,7 +7,7 @@
 - 🎓 Bsc.IT (European International University,Paris (EIU)) 
 - 🏢 I’m currently working as mobile developer at `Yangon Yinxiang Yule`
 - 🏢 Former Mobile Developer at `SYSTEMATIC Business Solution, Myanmar`
-- 👨‍💻 I’m currently learning `software development and software engineering`.
+- 👨‍💻 I am presently engaged in the study of `software development and software engineering`.
 - 😎 I have a strong desire to expand my knowledge and embrace new `technologies`.
 - 📫 You can contact me via Email at: [BrillianceOsprey](mailto:brillianceosprey@gmail.com)
 - 💻 I am funny.
