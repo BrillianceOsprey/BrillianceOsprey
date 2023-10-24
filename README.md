@@ -12,6 +12,23 @@
 - 📫 You can contact me via Email at: [BrillianceOsprey](mailto:brillianceosprey@gmail.com)
 - 😄 I'm a humorous programmer.
 
+### 🛠 &nbsp;Tech Stack
+
+######  Cross Platform
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=46d1fd)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart&logoColor=46d1fd)
+
+######  Native
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+
+######  Backend
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/node-js?style=plastic&logo=node&logoColor=ffffff&label=node-js&labelColor=%23026E00&color=ffffff)
+![Dart-Frog](https://img.shields.io/badge/dart-frog?style=plastic&logo=dart&logoColor=%235FCD8D&label=dart-frog&labelColor=grey&color=blue)
+![C#](https://img.shields.io/badge/c-sharp?style=plastic&logo=C%23&logoColor=ffffff&label=C%23&labelColor=%2321AF90&color=%23515151)
 
 ### My Github Status
 
