@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/BrillianceOsprey?style=social)](https://img.shields.io/github/followers/BrillianceOsprey?style=social)
 
@@ -8,8 +8,8 @@
 - 🏢 I’m currently working as mobile developer at `Yangon Yinxiang Yule`
 - Former Mobile Developer at `SYSTEMATIC Business Solution, Myanmar`
 - 👨‍💻 I’m currently learning `software development and software engineering`.
-- 😎 I'm very eager to learn new `technologies`.
-- 📫 How to reach me: Email: [BrillianceOsprey](mailto:brillianceosprey@gmail.com)
+- 😎 I have a strong desire to expand my knowledge and embrace new `technologies`.
+- 📫 You can contact me via Email at: [BrillianceOsprey](mailto:brillianceosprey@gmail.com)
 - 💻 I am funny.
 
 
