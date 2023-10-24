@@ -10,7 +10,7 @@
 - 👨‍💻 I am presently engaged in the study of `software development and software engineering`.
 - 😎 I have a strong desire to expand my knowledge and embrace new `technologies`.
 - 📫 You can contact me via Email at: [BrillianceOsprey](mailto:brillianceosprey@gmail.com)
-- 💻 I am funny.
+- 😄 I'm a humorous programmer.
 
 
 ### My Github Status
