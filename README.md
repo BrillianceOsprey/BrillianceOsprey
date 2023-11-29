@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/BrillianceOsprey?style=social)](https://img.shields.io/github/followers/BrillianceOsprey?style=social)
-
+<br><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 - 🇲🇲 I'm from [Myanmar (Burma)][country].
 - 🎓 B.C.Sc (University of Computer Studies Yangon)
 - 🎓 Bsc.IT (European International University,Paris (EIU)) 
@@ -38,3 +38,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrillianceOsprey&layout=compact&theme=dracula)](https://github.com/BrillianceOsprey)
 
 [country]: https://en.wikipedia.org/wiki/Myanmar
+<p align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
+</p>
