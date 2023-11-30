@@ -38,6 +38,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrillianceOsprey&layout=compact&theme=dracula)](https://github.com/BrillianceOsprey)
 
 [country]: https://en.wikipedia.org/wiki/Myanmar
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ruppysuppy.ruppysuppy" alt="visitors">
-</p>
+
