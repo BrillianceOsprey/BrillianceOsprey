@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=300&section=header&text=Myat%20Soe&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20Mobile%20Developer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19,24,30&height=300&section=header&text=Myat%20Soe&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20and%20Mobile%20Developer&descSize=22&descAlignY=55&descAlign=50" width="100%" />
 
 <div align="center">
 
@@ -146,14 +146,22 @@ const myatSoe = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrillianceOsprey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrillianceOsprey&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BrillianceOsprey&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=c9d1d9&ring_color=A855F7&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BrillianceOsprey&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7&sideLabels=A855F7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+
+  ![GitHub followers](https://img.shields.io/github/followers/BrillianceOsprey?style=for-the-badge&color=A855F7&labelColor=0D1117)
+  ![GitHub Stars](https://img.shields.io/github/stars/BrillianceOsprey?style=for-the-badge&color=A855F7&labelColor=0D1117)
+  ![GitHub Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=A855F7&labelColor=0D1117&label=Repos&query=public_repos&url=https://api.github.com/users/BrillianceOsprey)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrillianceOsprey&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrillianceOsprey&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br/>
@@ -184,7 +192,7 @@ const myatSoe = {
 
   <br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=BrillianceOsprey&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BrillianceOsprey&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&no-cache=true" width="90%" alt="GitHub Trophies" />
 
 </div>
 
